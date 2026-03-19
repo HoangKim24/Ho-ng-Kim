@@ -4,7 +4,7 @@
 - 💻 Developer với kinh nghiệm về Web Development & Blockchain
 - 🌱 Đam mê công nghệ Blockchain và Web3
 - 🔭 Thích học hỏi và làm việc với các công nghệ mới
-- 📫 Liên hệ: nlhk2403@gmal.com
+- 📫 Liên hệ: nlhk2403@gmail.com
 
 ## 🛠️ Kỹ năng & Công nghệ
 
@@ -31,26 +31,23 @@
 ## 🚀 Dự án nổi bật
 
 ### 🎫 Blockchain Ticket System - Hệ thống vé chống gian lận
-- X��y dựng hệ thống vé sử dụng blockchain để chống gian lận
+- Xây dựng hệ thống vé sử dụng blockchain để chống gian lận
 - Tích hợp với MetaMask wallet
 - Smart Contract trên Ethereum/Polygon
 - **Tech stack:** Solidity, Web3.js, MetaMask, Ethereum
 
 ### 🌸 Website Bán Nước Hoa
-- Website thương mại điện t�� bán nước hoa
+- Website thương mại điện tử bán nước hoa
 - Giao diện thân thiện, responsive
 - Quản lý sản phẩm, giỏ hàng
 - **Tech stack:** HTML, CSS, JavaScript, PHP, MySQL
-
 
 ### 🗄️ Hệ thống Cơ sở Dữ liệu Phân tán
 - Thiết kế và triển khai cơ sở dữ liệu phân tán
 - Tối ưu hóa truy vấn và hiệu suất
 - **Tech stack:** SQL, MySQL/PostgreSQL
 
-
 ## 📊 Thống kê GitHub
-
 
 ## 🌱 Hiện tại đang học
 - 🔐 Smart Contract Security
@@ -59,12 +56,14 @@
 - 🎨 Modern Frontend Frameworks (React/Vue)
 
 ## 📫 Liên hệ với tôi
-- 📧 Email:nlhk2403@gmail.com
+- 📧 Email: nlhk2403@gmail.com
 - 👥 Facebook: https://www.facebook.com/nguyen.kim.92599/?locale=vi_VN
+
 ---
 
 <div align="center">
   
 ### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-⭐️ Nếu bạn thấy dự án của tôi hữu
+⭐️ Nếu bạn thấy dự án của tôi hữu ích, hãy để lại một star nhé! ⭐️
+</div>
